@@ -4,7 +4,7 @@ A install guide on how to install Youtube & Youtube Music Vanced in your Rooted 
 ## Download
 I stored all APKs in another repository cause I plan on remaking the Vanced Manager to use [VancedAPKs](https://github.com/Norikiru/VancedAPKs/) releases for its download.
 
-Specific version - https://github.com/Norikiru/VancedAPKs/tags
+Specific version - https://github.com/Norikiru/VancedAPKs/tags \
 ALL APKs - https://github.com/Norikiru/VancedAPKs/archive/refs/heads/main.zip)
 
 ## Installation
@@ -16,7 +16,7 @@ ALL APKs - https://github.com/Norikiru/VancedAPKs/archive/refs/heads/main.zip)
 5.) Go back to the Installer tab and press the Install APK's and use Internal File Picker then go to the folder where you extracted it and choose which folder to use if you are rooted or not. 
 
 We would need to pick 4 apk files:
-- `base.apk`
+- `base.apk` (**DON'T USE `stock.apk`** or else it would install the stock app instead of Vanced.)
 - `dpi.apk`
 - `split_config.arm64_v8a.apk` (For ARM64 CPU's only (most phones use ARM cpus), to check youre CPU Architecture install Termux and type in `getprop ro.product.cpu.abi` and it should show your CPU Architecture for you to use.)
 - `split_config.en.apk` (You can change this to whatever language you want within the Language folder)
