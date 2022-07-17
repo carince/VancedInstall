@@ -1,3 +1,6 @@
+## Note: Added the installation to [VancedAPKs](https://github.com/Norikiru/VancedAPKs), no need for this repo.
+I probably should have done this before but eh.
+
 # VancedInstall
 A install guide on how to install Youtube & Youtube Music Vanced in your Rooted or Non-Rooted android phone!
 
